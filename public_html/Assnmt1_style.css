@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+    padding: 0px;
+   text-align: center; 
+   background-color: black;
+ /* background-image: url('images (22).jpeg');*/
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  font-family:Buxton Sketch; 
+  font-weight: 100;
+}
+
+h1 {
+    color: #222;
+     margin: 40px 0px 20px; 
+     font-weight: 100;
+     font-size: 60px;
+}
+
+h2 {
+    color: gold;
+    font-size: 50px;
+}
+header
+{
+    background-color: green;
+    height: 60px;
+}
+
+#timer
+{
+    color: #e9d1ff;
+    font-family: Iskoola Pota;
+    font-size: 50px;
+}
+div {
+    
+}
+.label {
+   
+    padding-left: 15px;
+}
+.block {
+    background: #222;
+    height: 50vh;
+    background-image: url('images (17).jpeg');
+    /*border: beige 3px inset;*/
+}
+
+
+#status {
+    color: #0099cc;
+    
+}
+
+
+
